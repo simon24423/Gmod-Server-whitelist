@@ -1,4 +1,5 @@
 Whitelist-System für Garry's Mod
+
 Dieses Skript für Garry's Mod ermöglicht es, eine Whitelist für Teammitglieder zu erstellen, die Zugriff auf den Server haben sollen.
 
 --Installation--
